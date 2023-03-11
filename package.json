@@ -4,8 +4,8 @@
   "description": "Recipe",
   "default": "index.html",
   "scripts": {
-    "start": "parcel project/index.html",
-    "build": "parcel build project/index.html --dist-dir ./dist"
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
   },
   "author": "Ankush tripathi",
   "license": "ISC",
